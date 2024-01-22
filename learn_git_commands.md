@@ -1,7 +1,7 @@
 git config
 git is a tool
 
-GitHub is a platform that uses git to implement cloud-based remote state/version management.
+GitHub is a platform that uses Git to implement cloud-based remote state/version management.
 
 What was the need to do this? give 4 examples.
 

@@ -145,9 +145,9 @@ Step 27: Commit the changes to master.
 
 Create a GitHub account if you don't have it // if you already have a GitHub account then follow the steps.
 
-after creating a GitHub account create a new Repository, and name the repository // If you already have an account then just create a new repository
+After creating a GitHub account create a new Repository, and name the repository // If you already have an account then just create a new repository
 
-after creating a new repository you will see (...or push an existing repository from the command line)
+After creating a new repository you will see (...or push an existing repository from the command line)
 
 Step 28: Your URL will be specific to your GitHub account. ( This establishes a remote connection with GitHub and we call this remote connection origin) this is the address that you're going to connect to.
 

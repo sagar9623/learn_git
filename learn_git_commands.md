@@ -111,9 +111,6 @@ command : git switch -c UpdateText
 Step 27 : to commit the changes to master.
 command : git commit -a -m "update index text"
 
-Step 28 : to upload repository.
-command :
-
 collabretion of Git and GitHub.
 
 Create an GitHub account if you don't have it // if you already have an GitHub account then follow the step.

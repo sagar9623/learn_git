@@ -3,6 +3,9 @@
 Welcome to our beginner's guide to Git and GitHub. This document summarizes key insights and learnings from an engaging
 and dive into the essentials of version control, collaboration, and project management with Git and GitHub.
 
+## Tutorial Link
+YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1534s).
+
 ## Key Learnings
 
 - **Essentials:** Git and GitHub are fundamental for efficient project management and deployment, crucial for version control and collaborative software development.

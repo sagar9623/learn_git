@@ -20,7 +20,7 @@ YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=tRZGeaHPoaw&
 - **Merging:** Combine branches into a master or main branch for cohesive project management.
 - **Submodules:** Leverage Git submodules to incorporate and track a separate repository within a parent repository, ideal for including external libraries or plugins.
 
-- ### GitHub
+### GitHub
 
 - **Version Control:** Built on Git, GitHub provides a collaborative platform that tracks file changes over time, enabling teamwork without conflicts.
 - **Repositories:** Host your project files in repositories, which can be either public or private, encompassing all project files and their change history.

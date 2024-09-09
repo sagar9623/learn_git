@@ -4,7 +4,7 @@ Welcome to our beginner's guide to Git and GitHub. This document summarizes key 
 and dive into the essentials of version control, collaboration, and project management with Git and GitHub.
 
 ## Tutorial Link
-1.YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1534s).
+1.YouTube: [Access the tutorial in "English" here](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1534s).
 
 2.YouTube: [Access the tutorial in "Hindi" here](https://www.youtube.com/watch?v=Ez8F0nW6S-w).
 

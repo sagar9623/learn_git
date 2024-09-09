@@ -9,15 +9,15 @@ and dive into the essentials of version control, collaboration, and project mana
 
 ## Key Learnings
 
-- **Essentials:** Git and GitHub are fundamental for efficient project management and deployment, crucial for version control and collaborative software development.
+- **Essentials:** Git and GitHub are fundamental for efficient project management and deployment and crucial for version control and collaborative software development.
 - **Advanced Features:** Introduction to Git submodules for managing complex projects with multiple repositories.
 
 ## Understanding Git and GitHub
 
 ### Git
 
-- **Core Platform:** Utilize Git for committing changes, checking status, and creating repositories.
-- **Branching:** Facilitate collaborative work through the creation of multiple branches, allowing for parallel development.
+- **Core Platform:** Utilize Git to commit changes, check status, and create repositories.
+- **Branching:** Facilitate collaborative work by creating multiple branches, allowing for parallel development.
 - **Merging:** Combine branches into a master or main branch for cohesive project management.
 - **Submodules:** Leverage Git submodules to incorporate and track a separate repository within a parent repository, ideal for including external libraries or plugins.
 

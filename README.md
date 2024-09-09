@@ -5,7 +5,8 @@ and dive into the essentials of version control, collaboration, and project mana
 
 ## Tutorial Link
 1.YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=1534s).
-2.YouTube: [Access the tutorial in "Hindi" here](https://www.youtube.com/watch?v=Ez8F0nW6S-w)
+
+2.YouTube: [Access the tutorial in "Hindi" here](https://www.youtube.com/watch?v=Ez8F0nW6S-w).
 
 ## Key Learnings
 
